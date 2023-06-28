@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #000, #fff);
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+    text-shadow: 2px 2px #000;
+
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  button {
+    padding: 15px 40px;
+    font-size: 16px;
+    background-color: #3f3c39;
+    color: white;
+    cursor:pointer;
+
+  }
+  button:hover{
+    font-size: 18px;
+  }
+  
+  
+  
+ 
